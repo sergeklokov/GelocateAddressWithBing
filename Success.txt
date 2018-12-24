@@ -1,0 +1,5 @@
+||1 Microsoft Way, Redmond, WA||||||||||1 Microsoft Way|WA|United States|King County|1 Microsoft Way, Redmond, WA 98052|Redmond|98052||||47.6400493433086|-122.12979727784|High|1 Microsoft Way, Redmond, WA 98052|Address|Success|||
+||9098 NE Barselona Pl Chandler, AZ 85249||||||||||W Barcelona Dr|AZ|United States|Maricopa County|W Barcelona Dr, Chandler, AZ 85226|Chandler|85226||||33.3223050003141|-111.901860000016|Low|W Barcelona Dr, Chandler, AZ 85226|RoadBlock|Success|||
+||8450 S Scott Pl Chandler, AZ 85249||||||||||S Scott Pl|AZ|United States|Maricopa County|S Scott Pl, Chandler, AZ 85249|Chandler|85249||||33.2278600000004|-111.790099999981|Medium|S Scott Pl, Chandler, AZ 85249|RoadBlock|Success|||
+||5450 S Scott Pl Chandler, AZ 85249||||||||||5450 S Scott Pl|AZ|United States|Maricopa County|5450 S Scott Pl, Chandler, AZ 85249|Chandler|85249||33.22723|-111.79039|||High|5450 S Scott Pl, Chandler, AZ 85249|Address|Success|||
+||2800 N Price Rd, Chandler, AZ 85286||||||||||S Price Rd|AZ|United States|Maricopa County|S Price Rd, Chandler, AZ 85286|Chandler|85286||||33.2723850000001|-111.889204999972|Medium|S Price Rd, Chandler, AZ 85286|RoadBlock|Success|||
